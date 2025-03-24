@@ -26,3 +26,4 @@ Hello, everyone, introduce myself:
 - **A student of DZ, 1996-03-26**
 - **NOA Techs is what I want**
 - **Build NOA Tech proj**
+- **Thank u very much**
